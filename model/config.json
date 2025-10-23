@@ -1,0 +1,5 @@
+{
+  "model_type": "ViT-B_16",
+  "img_size": 384,
+  "num_classes": 100
+}
